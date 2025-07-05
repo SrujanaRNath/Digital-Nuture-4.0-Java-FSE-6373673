@@ -1,0 +1,1 @@
+This exercise walks through creating and configuring a Maven project for a Spring Core application.

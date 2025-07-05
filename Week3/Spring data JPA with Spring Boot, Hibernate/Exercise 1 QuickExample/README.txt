@@ -1,0 +1,1 @@
+This exercise includes a quick example of using Spring Data JPA with Spring Boot and Hibernate.

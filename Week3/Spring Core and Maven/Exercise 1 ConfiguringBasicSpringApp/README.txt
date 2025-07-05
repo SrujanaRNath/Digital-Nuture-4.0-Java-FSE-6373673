@@ -1,0 +1,1 @@
+This exercise demonstrates configuring a basic Spring Core application using Maven. It includes a simple bean and ApplicationContext setup.

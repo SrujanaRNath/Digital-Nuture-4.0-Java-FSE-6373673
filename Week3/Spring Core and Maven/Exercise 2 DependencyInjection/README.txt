@@ -1,0 +1,1 @@
+This exercise demonstrates how to implement Dependency Injection in Spring using XML or annotations.
